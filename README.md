@@ -2,7 +2,7 @@
 
 ## Sobre o Curso
 
-Este repositório contém materiais, exemplos de código e recursos adicionais para a disciplina de Métodos Computacionais oferecida na Universidade Federal do Tocantins no ano de 2022. O curso foca no uso de R para aplicações em microeconometria, introduzindo os alunos às técnicas fundamentais de programação e análise de dados.
+Este repositório contém materiais, exemplos de código e recursos adicionais para a disciplina de Métodos Computacionais oferecida na Universidade Federal do Tocantins no ano de 2022. O curso foca no uso de R para aplicações em microeconometria, introduzindo os alunos às técnicas fundamentais de programação e análise de dados.  
 Professor: Dr Marcleiton Ribeiro Morais
 
 ## Objetivos
